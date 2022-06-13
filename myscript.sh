@@ -1,0 +1,2 @@
+az login --identity -u /subscriptions/dfb62f81-fb9f-43aa-b3ef-2f2e0105ca0e/resourcegroups/kateginzburg-rg/providers/Microsoft.ManagedIdentity/userAssignedIdentities/demomi
+az ad sp delete --id 87fe8ae4-313a-4ed4-a557-8d7f5017e348
