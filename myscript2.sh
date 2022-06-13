@@ -1,0 +1,1 @@
+az role assignment create --assignee 87fe8ae4-313a-4ed4-a557-8d7f5017e348 --role "Storage Blob Data Contributor" --scope /subscriptions/dfb62f81-fb9f-43aa-b3ef-2f2e0105ca0e/resourceGroups/kateginzburg-rg/providers/Microsoft.Storage/storageAccounts/kateginzburgdl01/blobServices/default/containers/testcontainer/
