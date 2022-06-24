@@ -1,5 +1,5 @@
 {
-	"name": "KateStorageContainer",
+	"name": "KateStorageContainer2",
 	"type": "Microsoft.Synapse/workspaces/linkedservices",
 	"properties": {
 		"annotations": [],
